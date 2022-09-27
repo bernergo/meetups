@@ -13,7 +13,7 @@ Philip Sahli works as a System Cloud Architect at Swiss Post and has gained a lo
 Microservice and [Type|Java]script Single-Page-Applications are nice standards. However, sometimes you just need a quick, easy way to serve some web-content and get some work done in the background. Built on Basecamp's Hotwire approach that they use to develop their own services, this talk will show the possibilities and advantages of a service written wholly in Go, serving HTML-over-the-wire. Based on personal experience, John will show an example of how you can get a simple application up and running, the main features of the Hotwire Turbo and Stimulus frameworks, some of the pitfalls and where you can go once everything is up and running.
 John is a Cloud Native BizDevSecOps Engineer at Bespinian who believes buzzwords should be banned. After having to move on from Smalltalk he never thought he would find true love again, until he met Go.
 
-[Repo](https://github.com/cldmstr/gogohotwire)
+[Slides](The_Fast_and_the_Furrious.pdf) | [Repo](https://github.com/cldmstr/gogohotwire)
 
 ## Go, Mobi, Go! – Ignacio Lorenzo Subirá Otal (Nacho), Johann Gyger
 

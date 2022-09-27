@@ -2,16 +2,16 @@
 
 [meetup.com](https://www.meetup.com/de-DE/berner-go-meetup/events/282339834/)
 
-## Roberto Clapis – Untangling software
+## Untangling software – Roberto Clapis
 
 Roberto will talk to us about the power of Go and TS interfaces.
 
-## Laura Varano – Let's Go and C the ASM
+## Let's Go and C the ASM – Laura Varano
 
 Laura will present some insights and differences on Go and C compiled artifacts.
 
-## Lucas Bremgartner – Detect the Trojan Source Attack
+## Detect the Trojan Source Attack – Lucas Bremgartner
 
 Lucas will tell us about detecting utf-8 attacks in source code and dive into how this was added to golangci-lint.
 
-[Repo](https://github.com/breml/bidichk) | [Slides](Detect_Trojan_Source_Attack.pdf) | [Blog Post](https://breml.github.io/blog/2021/12/07/detect-trojan-source-attack/)
+[Slides](Detect_Trojan_Source_Attack.pdf) | [Repo](https://github.com/breml/bidichk) | [Blog Post](https://breml.github.io/blog/2021/12/07/detect-trojan-source-attack/)
