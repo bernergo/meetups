@@ -8,5 +8,5 @@ Pure functional programing is great especially in web assembly, on rare occasion
 Warning: Some JavaScript may be involved in this Go presentation.
 Patrick is a systems engineer at Open Systems, he enjoys functional programming, CI/CD and test automation. Unlike most people he spells devops in lower case and can often be seen using the gohper or the party parrot emojis on Slack.
 
-Links: [Repo](https://github.com/neophob/ganother-world)  
+Links: [Slides](https://paaat.com/slides/2022-barnergo-wasm-talk.html) [Repo](https://github.com/pfiaux/another-web-assembly-example)  
 Speaker: [Github](https://github.com/pfiaux) | [Twitter](https://twitter.com/swisspaaat) | [LinkedIn](https://ch.linkedin.com/in/patrickfiaux)
