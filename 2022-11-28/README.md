@@ -6,7 +6,7 @@
 
 charm.sh is a comprehensive Go framework to create great looking and interactive CLI tools. It consists of multiple libraries for adding functionality and styling your CLI tools with the same battle proven paradigms we are used to from front end apps in the browser. With examples from her daily life and practical insights, Lena will show us around Charm and its main libraries.
 
-Links: [Repo](https://github.com/cloudlena/pokedex)  
+Links: [Slides](charm_lena_fuhrimann.pdf) | [Repo](https://github.com/cloudlena/pokedex)  
 Speaker: [Github](https://github.com/cloudlena) | [Twitter](https://twitter.com/the_cloudlena) | [LinkedIn](https://www.linkedin.com/in/lena-fuhrimann/)
 
 ## Go pub quiz – Tom Payne
