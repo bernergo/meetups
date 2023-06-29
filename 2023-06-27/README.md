@@ -7,8 +7,8 @@
 We're going to explain the limitations of current CI tools and introduce you a new open-source solution called Dagger. Using Dagger, developers can define and maintain their CI pipelines as true Go code, giving them greater control and flexibility over the process. This approach leads to a more efficient and streamlined CI pipeline developing process."
 Christian Schlatter works as a CI/CD Engineer at Puzzle ITC and also as a trainer at Acend for cloud-native technologies. He likes his CI pipelines like his pizza delivery: fast and bug-free.
 
-Links: [Repo](https://github.com/puzzle/goff)  
-Speaker: [Github](https://github.com/schlapzz)
+Links: [Slides](christian_schlatter_ci_pipeline_as_code.pdf) | [Repo](https://github.com/puzzle/goff)  
+Speaker: [Github](https://github.com/schlapzz) | [LinkedIn](https://www.linkedin.com/in/christian-schlatter-18170a1a2/)
 
 ## pigeon - Generate parsers in Go from PEG grammar – Lucas Bremgartner
 
