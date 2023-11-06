@@ -23,3 +23,6 @@ Speaker: [Github](https://github.com/philipsahli) | [LinkedIn](https://www.linke
 ## Dr. Golove - or How I Learned to Stop Worrying and Love //go:generate – John M. Hutchison
 
 John will share his personal journey from skepticism towards code generation to acceptance and learning to love //go:generate as an invaluable tool. Thoughts on and about code generation with some small examples of what lead to a change of heart.
+
+Links: [Slides](#)  
+Speaker: [Github](https://github.com/cldmstr) | [Twitter](https://twitter.com/jackharbinger) | [LinkedIn](https://ch.linkedin.com/in/john-m-hutchison)
