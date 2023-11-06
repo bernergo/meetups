@@ -8,17 +8,18 @@ In 2016, PostFinance once again developed a new operations management tool - thi
 
 ## gRPC retry mechanisms with go - Thomas Gosteli
 
-gRPC is a high performance, open source universal RPC (remote procedure call) framework (https://grpc.io/) with support for various languages and with a wide variety of features. One of these features is client side retries. These retries are disabled by default and must be configured using so called service configs. In this talk I’ll give you a short intro to gRPC with go, some insights about these automatic retry capabilities, how to configure them and where the limit of the retry feature is.
+gRPC is a high performance, open source universal RPC (remote procedure call) framework (<https://grpc.io/>) with support for various languages and with a wide variety of features. One of these features is client side retries. These retries are disabled by default and must be configured using so called service configs. In this talk I’ll give you a short intro to gRPC with go, some insights about these automatic retry capabilities, how to configure them and where the limit of the retry feature is.
+
+Links: [Slides](ghouscht_gRPC_retry_mechanisms_with_go.pdf) | [Repo](https://github.com/ghouscht/gRPC-retry-mechanisms-with-go/)  
+Speaker: [Github](https://github.com/ghouscht) | [Twitter](https://twitter.com/ghouscht) | [LinkedIn](https://www.linkedin.com/in/thomas-gosteli-787418239)
 
 ## Extendable Applications in Go - Philip Sahli
 
 Drawing from my experience with extensible projects like Terraform, I'll introduce the concept of "plugins" in Golang. By focusing on HashiCorp's widely utilized implementation, I'll showcase how plugins enhance software extendability. Join me in exploring how HashiCorp's plugin framework is revolutionizing application development.
 
-Links: [Slides](https://www.slideshare.net/philipsahli/extendable-applications-in-go)
+Links: [Slides](https://www.slideshare.net/philipsahli/extendable-applications-in-go)  
 Speaker: [Github](https://github.com/philipsahli) | [LinkedIn](https://www.linkedin.com/in/philipsahli)
 
 ## Dr. Golove - or How I Learned to Stop Worrying and Love //go:generate – John M. Hutchison
 
 John will share his personal journey from skepticism towards code generation to acceptance and learning to love //go:generate as an invaluable tool. Thoughts on and about code generation with some small examples of what lead to a change of heart.
-
-
