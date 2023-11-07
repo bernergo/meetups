@@ -11,7 +11,7 @@ In 2016, PostFinance once again developed a new operations management tool - thi
 gRPC is a high performance, open source universal RPC (remote procedure call) framework (<https://grpc.io/>) with support for various languages and with a wide variety of features. One of these features is client side retries. These retries are disabled by default and must be configured using so called [service configs](https://github.com/grpc/grpc/blob/master/doc/service_config.md). In this talk I’ll give you a short intro to gRPC with go, some insights about these automatic retry capabilities, how to configure them and where the limit of the retry feature is.
 
 Links: [Slides](ghouscht_gRPC_retry_mechanisms_with_go.pdf) | [Repo](https://github.com/ghouscht/gRPC-retry-mechanisms-with-go/)  
-Speaker: [Github](https://github.com/ghouscht) | [Twitter](https://twitter.com/ghouscht) | [LinkedIn](https://www.linkedin.com/in/thomas-gosteli-787418239)
+Speaker: [Github](https://github.com/ghouscht) | [Twitter](https://twitter.com/ghouscht) | [LinkedIn](http://www.linkedin.com/in/thomas-gosteli-776b0a299)
 
 ## Extendable Applications in Go - Philip Sahli
 
