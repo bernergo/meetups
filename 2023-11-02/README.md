@@ -24,5 +24,5 @@ Speaker: [Github](https://github.com/philipsahli) | [LinkedIn](https://www.linke
 
 John will share his personal journey from skepticism towards code generation to acceptance and learning to love //go:generate as an invaluable tool. Thoughts on and about code generation with some small examples of what lead to a change of heart.
 
-Links: [Slides](#)  
+Links: [Slides](cldmstr_dr_golove_how_i_learned_to_love_go_generate.pdf)
 Speaker: [Github](https://github.com/cldmstr) | [Twitter](https://twitter.com/jackharbinger) | [LinkedIn](https://ch.linkedin.com/in/john-m-hutchison)
