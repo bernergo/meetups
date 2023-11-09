@@ -6,6 +6,8 @@
 
 In 2016, PostFinance once again developed a new operations management tool - this time in Go. There were already a few predecessors written in C, Perl, TCL and Java which were more or less used and appreciated. At that time, Go was no longer new, but it wasn’t the well-known «Java» either, which is why there were some critical voices about this project as well. In addition, Mule was not developed by a well-rehearsed development team, but by a mix of infrastructure and operations members. The first version succeeded, was accepted, and appreciated. With the spread of the tool, problems with the used technologies became visible and tangible. Five years after starting the project, Mule finally underwent a complex refactoring, and the result is quite impressive.
 
+Links: [Slides](mule_export.pdf)
+
 ## gRPC retry mechanisms with go - Thomas Gosteli
 
 gRPC is a high performance, open source universal RPC (remote procedure call) framework (<https://grpc.io/>) with support for various languages and with a wide variety of features. One of these features is client side retries. These retries are disabled by default and must be configured using so called [service configs](https://github.com/grpc/grpc/blob/master/doc/service_config.md). In this talk I’ll give you a short intro to gRPC with go, some insights about these automatic retry capabilities, how to configure them and where the limit of the retry feature is.
