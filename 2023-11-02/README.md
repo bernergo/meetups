@@ -9,14 +9,14 @@ In 2016, PostFinance once again developed a new operations management tool - thi
 Links: [Slides](mule_export.pdf)
 Speaker: [Github](https://github.com/zbindenren)
 
-## gRPC retry mechanisms with go - Thomas Gosteli
+## gRPC retry mechanisms with go – Thomas Gosteli
 
 gRPC is a high performance, open source universal RPC (remote procedure call) framework (<https://grpc.io/>) with support for various languages and with a wide variety of features. One of these features is client side retries. These retries are disabled by default and must be configured using so called [service configs](https://github.com/grpc/grpc/blob/master/doc/service_config.md). In this talk I’ll give you a short intro to gRPC with go, some insights about these automatic retry capabilities, how to configure them and where the limit of the retry feature is.
 
 Links: [Slides](ghouscht_gRPC_retry_mechanisms_with_go.pdf) | [Repo](https://github.com/ghouscht/gRPC-retry-mechanisms-with-go/)  
 Speaker: [Github](https://github.com/ghouscht) | [Twitter](https://twitter.com/ghouscht) | [LinkedIn](http://www.linkedin.com/in/thomas-gosteli-776b0a299)
 
-## Extendable Applications in Go - Philip Sahli
+## Extendable Applications in Go – Philip Sahli
 
 Drawing from my experience with extensible projects like Terraform, I'll introduce the concept of "plugins" in Golang. By focusing on HashiCorp's widely utilized implementation, I'll showcase how plugins enhance software extendability. Join me in exploring how HashiCorp's plugin framework is revolutionizing application development.
 

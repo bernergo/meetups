@@ -17,7 +17,7 @@ Parsing Expression Grammar (PEG) is a way to describe the structure of any kind 
 Links: [Slides](breml_peg_parsers_in_go_with_pigeon.pdf) | [Repo](https://github.com/breml/baerner-go-pigeon)  
 Speaker: [Github](https://github.com/breml) | [Twitter](https://twitter.com/_breml_) | [LinkedIn](https://www.linkedin.com/in/lucas-bremgartner-96b477)
 
-## Cross-platform development with Go: practical lessons learned the hard way from chezmoi - Tom Payne
+## Cross-platform development with Go: practical lessons learned the hard way from chezmoi – Tom Payne
 
 Cross-platform development with Go is easy, right? Just set the GOOS and GOARCH environment variables and boom you have a binary for your target operating system and architecture. The reality is that there's much more to building cross-platform software than making sure that the bytes in the .EXE file are in the right order. This talk will reveal everything that went wrong getting the chezmoi dotfile manager to run on seven different operating systems and eleven different architectures. Lessons learned the hard way, so you can get a head start on your next cross-compiled project.
 
