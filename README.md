@@ -1,6 +1,6 @@
 # Meetups
 
-* [2024-06-13 - Bärner Go Talks 2024 no. 2](2024-06-14/README.md)
+* [2024-06-13 - Bärner Go Talks 2024 no. 2](2024-06-13/README.md)
 * [2024-03-07 - Bärner Go Talks 2024 no. 1](2024-03-07/README.md)
 * [2023-11-02 - Bärner Go Talks 2023 no. 3](2023-11-02/README.md)
 * [2023-06-27 - Bärner Go Talks 2023 no. 2](2023-06-27/README.md)
