@@ -20,4 +20,5 @@ Speaker: [Chedi Taieb](https://www.linkedin.com/in/chedi-taieb-987382177/) | [Vl
 
 A new approach to semantic JSON difference printing using JSON Patch and what this has to do with revealing sensitive values in Terraform's concise diff plan output. All of this backed into a library and a tool to make the engineers life easier.
 
-Speaker: [LinkedIn](https://www.linkedin.com/in/lucas-bremgartner/)
+Links: [Slides](JSON-Patch-Meets-Terraform-to-Reveal-the-Sensitives_-_Lucas-Bremgartner.pdf) | [tfreveal](https://github.com/breml/tfreveal) | [jsondiffprinter](https://github.com/breml/jsondiffprinter)  
+Speaker: [Github](https://github.com/breml) | [LinkedIn](https://www.linkedin.com/in/lucas-bremgartner-96b477)
