@@ -10,7 +10,7 @@ Christian Schlatter works as a CI/CD Engineer at Puzzle ITC and also as a traine
 Links: [Slides](christian_schlatter_ci_pipeline_as_code.pdf) | [Repo](https://github.com/puzzle/goff)  
 Speaker: [Github](https://github.com/schlapzz) | [LinkedIn](https://www.linkedin.com/in/christian-schlatter-18170a1a2/)
 
-## pigeon - Generate parsers in Go from PEG grammar – Lucas Bremgartner
+## pigeon – Generate parsers in Go from PEG grammar – Lucas Bremgartner
 
 Parsing Expression Grammar (PEG) is a way to describe the structure of any kind of structured text like programming language, configuration formats or log files. Together we will explore the basics of writing PEGs, practical use cases and how we can generate and use parser implementations for the Go programming language.
 
