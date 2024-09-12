@@ -2,7 +2,7 @@
 
 [meetup.com](https://www.meetup.com/de-DE/berner-go-meetup/events/297593978/)
 
-## Improving the maturity of our applications through the use of an SDK - Alain Kolp, Laurent Brülhart
+## Improving the maturity of our applications through the use of an SDK – Alain Kolp, Laurent Brülhart
 
 Discover how our SDK enables us to produce more secure applications, while guaranteeing maintainability and reducing delivery times.
 

@@ -9,7 +9,7 @@ Using [Testcontainers](https://golang.testcontainers.org/) for better integratio
 Links: [Repo](https://github.com/michherren/go-testcontainers-examples) | [Slides](michael_herren_testcontainers.pdf)  
 Speaker: [Github](https://github.com/michherren) | [LinkedIn](https://www.linkedin.com/in/michael-h-40a38ba3/)
 
-## Fastest JSON Decoder in The West - Roman Scharkov
+## Fastest JSON Decoder in The West – Roman Scharkov
 
 A quick dive into [github.com/romshark/jscan](http://github.com/romshark/jscan) v3 featuring the fastest JSON unmarshaler/decoder in the wild!  
 This is part two of the [introduction to jscan v2](https://github.com/romshark/pres-jscan) at the [Zürich Gophers meetup from October 3rd 2023](https://www.meetup.com/de-DE/zurich-gophers/events/296011999/). Discover gophers doing crazy experiments, prepare to learn to write the most efficient JSON decoders and delve into the magic tricks of high performance Go code.
