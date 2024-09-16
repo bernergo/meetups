@@ -20,7 +20,7 @@ Speaker: [Github](https://github.com/breml) | [LinkedIn](https://www.linkedin.co
 
 Lightning talk with demo on how CPU limits affect your Go application in containerized environments.
 
-Links: [Slides](CPU_limits_and_Go_-_Thomas-Gosteli.pdf) | [Code](https://github.com/ghouscht/cpu-limits-and-go)  
+Links: [Slides](CPU_limits_and_Go_-_Thomas-Gosteli.pdf) | [Slides on Google Docs](https://docs.google.com/presentation/d/18qBafo1hClKQYnM1ltsmBt91sBQfi7j-DjKKPdz4vyk) | [Code](https://github.com/ghouscht/cpu-limits-and-go)  
 Speaker: [Github](https://github.com/ghouscht) | [LinkedIn](https://www.linkedin.com/in/thomas-gosteli/)
 
 ## ackbar – Mathis Kretz
