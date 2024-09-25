@@ -2,12 +2,12 @@
 
 [meetup.com](https://www.meetup.com/de-DE/berner-go-meetup/events/301976804/)
 
-## Contributing to open source – etcd robustness under the hood – Henry Tseng
+## Contributing to open source – etcd robustness under the hood – Chun-Hung (Henry) Tseng
 
 Sharing the journey of contributing to CNCF projects, and the development experience on the etcd robustness test.
 
 Links: [Slides](Contributing-to-open-source_-_etcd-robustness-under-the-hood_-_Henry-Tseng.pdf)  
-Speaker: [LinkedIn](https://www.linkedin.com/in/chun-hung-tseng/)
+Speaker: [Github](https://github.com/henrybear327) | [LinkedIn](https://www.linkedin.com/in/chun-hung-tseng/)
 
 ## rangefuncs – iterators in Go – Lucas Bremgartner
 
