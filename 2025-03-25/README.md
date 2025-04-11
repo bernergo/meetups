@@ -6,26 +6,28 @@
 
 Talk on the software engineer aspects of the chezmoi project that enable it to support tens of thousands of users over multiple platforms with only a small team of volunteers.
 
-Links: [Slides]() | [Project](https://www.chezmoi.io)
+Links: [Slides]() | [Project](https://www.chezmoi.io)  
 Speaker: [Github](https://github.com/twpayne)
 
 ## Evolution and architecture of the goProbe project – Lennart Elsen & Fabian Kohn
 
 This talk explores how Open Systems solved the problem of capturing, storing and querying Terabytes of network metadata efficiently with `goProbe` (write path) and `goQuery` (read path).
 
-Links: [Slides](global-network-observability-with-goprobe.pdf) |  [Code](https://github.com/els0r/goProbe)
-Speakers: [Github](https://github.com/) | [LinkedIn Fabian Kohn](https://www.linkedin.com/in/fabiankohn/)
+Links: [Slides](global-network-observability-with-goprobe.pdf) |  [Code](https://github.com/els0r/goProbe)  
+Speakers:  
+Lennart Elsen [Github](https://github.com/els0r)  
+Fabian Kohn [Github](https://github.com/fako1024) | [LinkedIn](https://www.linkedin.com/in/fabiankohn/)
 
 ## Go 1.24 Update – Thomas Gosteli
 
 Lightning talk highlighting updates and features of the Go 1.24 release.
 
-Links: [Slides]()
+Links: [Slides]()  
 Speaker: [Github](https://github.com/ghouscht) | [LinkedIn](https://www.linkedin.com/in/thomas-gosteli/)
 
 ## Compiling CGO with Zig – John Hutchison & Johannes Karl
 
 Ligtning talk on how you can use the Zig C and C++ comilation features to more easily cross compile projects using CGO.
 
-Links: [Slides](CGO with Zig.pdf)
+Links: [Slides](CGO\ with\ Zig.pdf)  
 Speakers: John Hutchison [Github](https://github.com/cldmstr) | [LinkedIn](https://www.linkedin.com/in/john-m-hutchison/)
