@@ -22,7 +22,7 @@ Fabian Kohn [Github](https://github.com/fako1024) | [LinkedIn](https://www.linke
 
 Lightning talk highlighting updates and features of the Go 1.24 release.
 
-Links: [Slides]()  
+Links: [Slides](https://docs.google.com/presentation/d/16Jt5N0t61-quuqpOMR5gmYzdhqn3dS_a0RbnD864Z5Q)  | [Code](https://github.com/ghouscht/go-1.24-whats-new)
 Speaker: [Github](https://github.com/ghouscht) | [LinkedIn](https://www.linkedin.com/in/thomas-gosteli/)
 
 ## Compiling CGO with Zig – John Hutchison & Johannes Karl
