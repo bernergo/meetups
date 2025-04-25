@@ -1,4 +1,4 @@
-# 2025-03-25
+# 2025-03-27
 
 [meetup.com](https://www.meetup.com/de-DE/berner-go-meetup/events/305666982/)
 
