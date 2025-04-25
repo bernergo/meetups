@@ -4,7 +4,7 @@
 
 ## Software Engineering in chezmoi – Tom Payne
 
-Talk on the software engineer aspects of the chezmoi project that enable it to support tens of thousands of users over multiple platforms with only a small team of volunteers.
+Talk on the software engineering aspects of the chezmoi project that enable it to support tens of thousands of users over multiple platforms with only a small team of volunteers.
 
 Links: [Project](https://www.chezmoi.io)  
 Speaker: [Github](https://github.com/twpayne)
@@ -27,7 +27,7 @@ Speaker: [Github](https://github.com/ghouscht) | [LinkedIn](https://www.linkedin
 
 ## Compiling CGO with Zig – John Hutchison & Johannes Karl
 
-Ligtning talk on how you can use the Zig C and C++ comilation features to more easily cross compile projects using CGO.
+Lightning talk on how you can use the Zig C and C++ compilation features to more easily cross compile projects using CGO.
 
 Links: [Slides](cgo-with-zig.pdf)  
 Speakers:  
