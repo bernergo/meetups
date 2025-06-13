@@ -23,13 +23,14 @@ it's mssing here? Open a pull request to add it please.
 - Kernel level filters/features i.e. [Landlock](https://docs.kernel.org/userspace-api/landlock.html)
 - Fake *\_test.go files https://www.arp242.net/jia-tan-go.html
 
-## Topic 3: Middlewares, Routing, Templating and avoidign dependencies - John
+## Topic 3: Middlewares, Routing, Templating and avoiding dependencies - John
 
 - https://github.com/romshark/demo-islands
+- [chi middlewares](https://github.com/go-chi/chi/tree/master/middleware)
 
 ## Topic 4: Deploying a go binary in a closed ecosystem (i.e. internal tool for other engineers) - Martin
 
-If Brew, NPM, go releaser or other options are not possible because the tool is not open source.
+If Brew, NPM, [go releaser](https://goreleaser.com/) or other options are not possible because the tool is not open source.
 
 - Use brew with a private cask
 - Use go run (needs go installed)
@@ -39,3 +40,4 @@ If Brew, NPM, go releaser or other options are not possible because the tool is 
 - Provide the tool in a container and provide a [dev container config](https://containers.dev/)
 - Use a [nix](https://nixos.org) package
 - Use Github [gh cli extensions](https://docs.github.com/en/github-cli/github-cli/using-github-cli-extensions) to install the tools
+- Use [Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers) and run the tool within
