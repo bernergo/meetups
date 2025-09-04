@@ -10,22 +10,22 @@ it's mssing here? Open a pull request to add it please.
 - [TOKI tool](https://github.com/romshark/toki)
 - [TIK format](https://github.com/romshark/tik)
 - [ICU message parsing](https://github.com/romshark/icumsg)
-- https://github.com/wasmvision/wasmvision uses wasm plugins approach might be interesting to explore to use sandboxing
-- Terraform provides a plugin library they use in various hashicorp tools https://github.com/hashicorp/terraform-plugin-go
+- [WasmVision](https://github.com/wasmvision/wasmvision) uses wasm plugins approach might be interesting to explore to use sandboxing
+- Terraform provides a plugin library they use in various hashicorp tools: [https://github.com/hashicorp/terraform-plugin-go](https://github.com/hashicorp/terraform-plugin-go)
 
 ## Topic 2: Checking depencencies and handling security issues - Martin
 
-- https://github.com/google/capslock (https://security.googleblog.com/2023/09/capslock-what-is-your-code-really.html)
+- [Capslock](https://github.com/google/capslock) (<https://security.googleblog.com/2023/09/capslock-what-is-your-code-really.html>)
 - open source security foundation OSSF tools:
-    - [scorecard.dev](https://scorecard.dev/)
-    - [deps.dev](https://deps.dev/)
-- https://socket.dev/ "Secure your dependencies. Ship with confidence."
+  - [scorecard.dev](https://scorecard.dev/)
+  - [deps.dev](https://deps.dev/)
+- [Socket](https://socket.dev/) "Secure your dependencies. Ship with confidence."
 - Kernel level filters/features i.e. [Landlock](https://docs.kernel.org/userspace-api/landlock.html)
-- Fake *\_test.go files https://www.arp242.net/jia-tan-go.html
+- [Fake *\_test.go files](https://www.arp242.net/jia-tan-go.html)
 
 ## Topic 3: Middlewares, Routing, Templating and avoiding dependencies - John
 
-- https://github.com/romshark/demo-islands
+- [Demo Islands](https://github.com/romshark/demo-islands)
 - [chi middlewares](https://github.com/go-chi/chi/tree/master/middleware)
 
 ## Topic 4: Deploying a go binary in a closed ecosystem (i.e. internal tool for other engineers) - Martin
