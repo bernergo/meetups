@@ -23,5 +23,5 @@ Speaker: [GitHub](https://github.com/lzaugg) | [LinkedIn](https://www.linkedin.c
 ## Hypermedia Super-Charged - Roman Sharkov
 Developing reactive, dynamic web apps is usually complex and expensive - but it doesn’t have to be. With Datastar and Templ, server-driven web apps are finally within reach for us Gophers! Write JavaScript only for what it was truly designed for, and enjoy pure Hypermedia at 144 FPS.
 
-Links: [Slides]() | [Code]()  
+Links: [Slides](https://drive.google.com/file/d/11FSSstAxlj_wTnwI3jUr0NYMmHS4d-km/view) | [Code](https://github.com/romshark/todostar)  
 Speaker: [GitHub](https://github.com/romshark/) | [LinkedIn](https://www.linkedin.com/in/romshark/)
