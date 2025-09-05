@@ -20,7 +20,7 @@ Speaker: [GitHub](https://github.com/0xjac) | [LinkedIn](https://www.linkedin.co
 
 This interactive session offers a practical introduction to the core features of [NATS](https://nats.io/). Participants can connect directly to a live NATS system using the NATS CLI or custom Go code (a public repository will be provided) and trigger real actions during the talk, each aligned with a specific NATS concept. The focus will be on the fundamentals of core messaging patterns and JetStream for persistence and streaming.
 
-Links: [Slides]() | [Code](https://github.com/lzaugg/nats-session-go)  
+Links: [Slides](20250903-nats-handson-slides.pdf) | [Code](https://github.com/lzaugg/nats-session-go)  
 Speaker: [GitHub](https://github.com/lzaugg) | [LinkedIn](https://www.linkedin.com/in/lukas-zaugg/)
 
 ## Hypermedia Super-Charged - Roman Sharkov
