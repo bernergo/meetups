@@ -13,7 +13,7 @@ Speaker: [GitHub](https://github.com/mymichu) | [LinkedIn](https://www.linkedin.
 
 A quick and practical dive into Go vanity URLs: what they are, how they work under the hood, why you might want one (or not), and how to set them up for your own modules.
 
-Links: [Slides]() | [Code]()  
+Links: [Slides](20250903-VanityFair-Go-Module-Names.pdf)  
 Speaker: [GitHub](https://github.com/0xjac) | [LinkedIn](https://www.linkedin.com/in/0xjac/)
 
 ## Hands-On with NATS: Messaging, JetStream - Lukas Zaugg
