@@ -1,5 +1,6 @@
 # Meetups
 
+* [2025-09-03 - Bärner Go Talks 2025 no. 3](2025-09-03/README.md)
 * [2025-05-20 - Bärner Go Talks 2025 no. 2](2025-05-20/README.md)
 * [2025-03-27 - Bärner Go Talks 2025 no. 1](2025-03-27/README.md)
 * [2024-09-11 - Bärner Go Talks 2024 no. 3](2024-09-11/README.md)
