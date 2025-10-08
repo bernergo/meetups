@@ -6,7 +6,7 @@
 
 [Crossplane](https://www.crossplane.io/) is a cloud native control plane framework. Die Mobiliar has developed custom providers that connect to their Crossplane infrastructure. The providers are written in Go and deployed with Bazel. Michel will give an intro about Crossplane and the provider development at die Mobiliar.
 
-Links: [Slides]() | [Code]()  
+Links: [Slides](CrossplaneBazel.pdf)  
 Speaker: [GitHub](https://github.com/mymichu) | [LinkedIn](https://www.linkedin.com/in/michel-meyer-77177984/)
 
 ## Vanity fair: Why your modules deserve better than github.com - Jacques Dafflon
