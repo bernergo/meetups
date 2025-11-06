@@ -6,7 +6,7 @@
 
 Container registries aren't just for Docker images. Using ORAS, we can stuff Go binaries into OCI-compliant registries and build programs that check for updates, download new versions, and replace themselves at runtime. This talk walks through the implementation details: querying registry APIs for new tags, handling the binary swap dance, and building in rollback logic when the new version inevitably breaks something. You'll see how to turn any container registry into a binary distribution system and why this approach beats rolling your own update infrastructure.
 
-Links: [Slides]()  
+Links: [Slides](2025-11-05-self-updating-go-binaries.pdf) | [Code](https://github.com/zeitlos/knockknock)  
 Speaker: [GitHub](https://github.com/cblaettl) | [LinkedIn](https://www.linkedin.com/in/cblaettl/)
 
 ## From Go to the Browser: Parsing GoPro Metadata with WebAssembly - Chrigu Cueni
