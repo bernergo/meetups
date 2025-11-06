@@ -21,5 +21,5 @@ Speaker: [GitHub](https://github.com/chrigu) | [LinkedIn](https://www.linkedin.c
 
 Terraform providers let us manage infrastructure by bridging Terraform Core with external APIs. But how do you make sure your provider actually works as expected? In this talk, I’ll walk through how to write acceptance tests for a Terraform provider, using the Incus provider as an example. Incus is a modern, secure, and powerful system container and virtual machine manager. You’ll see how acceptance tests spin up real Terraform runs, verify resource lifecycles, and ensure the provider stays reliable as both Terraform and Incus evolve.
 
-Links: [Slides]() | [Code](https://github.com/lxc/terraform-provider-incus)  
+Links: [Slides](Fabian-Mettler_Acceptance-Testing-a-Terraform-Provider-for-Incus.pdf) | [Code](https://github.com/lxc/terraform-provider-incus)  
 Speaker: [GitHub](https://github.com/maveonair) | [LinkedIn](https://www.linkedin.com/in/fabian-mettler-114969101/)
