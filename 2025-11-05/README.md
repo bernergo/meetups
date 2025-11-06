@@ -14,7 +14,7 @@ Speaker: [GitHub](https://github.com/cblaettl) | [LinkedIn](https://www.linkedin
 I’ve been working on a side project called TrailTrace. The core is written in Go, where I parse GoPro video metadata (GPS, gyro, accelerometer, etc.). To make it run in the browser, the Go code is compiled to WebAssembly, so the same parsing logic works directly client-side without a backend. The frontend is a Nuxt app that visualizes rides or ski tours on a map.One of the interesting parts has been dealing with memory: One can use memory in JS freely, but WebAssembly itself is limited in memory, so I had to find ways to stream large video files efficiently without hitting that limit.
 If you’re curious, you can try a demo here: [https://trailtrace.video](https://trailtrace.video)
 
-Links: [Slides]() | [Code](https://github.com/chrigu/go-gpmf)  
+Links: [Slides](https://gamma.app/docs/And-now-for-something-completely-different-u51bgypt3fqib3u) | [Code](https://github.com/chrigu/go-gpmf)  
 Speaker: [GitHub](https://github.com/chrigu) | [LinkedIn](https://www.linkedin.com/in/christiancueni/)
 
 ## Acceptance Testing a Terraform Provider for Incus - Fabian Mettler
