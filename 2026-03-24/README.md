@@ -24,7 +24,7 @@ Speaker: [GitHub](https://github.com/romshark) | [LinkedIn](https://www.linkedin
 A quick intro to slog, its basic use, comparison with the venerable logrus, and a few ideas for using its handlers.
 
 Links: [Slides](TODO) | [Code](TODO)  
-Speaker: [GitHub](TODO) | [LinkedIn](TODO)
+Speaker: [GitHub](https://github.com/pfiaux) | [LinkedIn](https://www.linkedin.com/in/patrickfiaux/)
 
 ## Go 1.26 Update - John M. Hutchison
 What's new. What's been fixed. What's been changed. What you might have missed.
