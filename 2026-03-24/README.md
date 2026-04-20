@@ -27,6 +27,7 @@ Links: [Slides](./pfiaux-2026-lighting-talk-slog.pdf)
 Speaker: [GitHub](https://github.com/pfiaux) | [LinkedIn](https://www.linkedin.com/in/patrickfiaux/)
 
 ## Go 1.26 Update - John M. Hutchison
+
 What's new. What's been fixed. What's been changed. What you might have missed.
 
 Links: [Slides](./cldmstr-2026-lightning-talk-go126.pdf) | [Code](https://codeberg.org/aeforged/fixme126)
