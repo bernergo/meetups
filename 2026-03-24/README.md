@@ -16,7 +16,7 @@ In this live-coding talk he will attempt to build an interactive, server-centric
 application in pure Go with Datapages - a new Go web frontend framework, code generator and linter based on Datastar
 and Templ HTML templates.
 
-Links: [Slides](TODO) | [Code](TODO)
+Links: [Slides](./romshark-2026-datastar_livecoding_demo_slides.pdf) | [Code](https://github.com/romshark/datapages)
 Speaker: [GitHub](https://github.com/romshark) | [LinkedIn](https://www.linkedin.com/in/romshark/)
 
 ##  log/slog - Patrick Fiaux
