@@ -7,8 +7,8 @@ Joint meetup with [Elastic Switzerland User Group](https://www.meetup.com/elasti
 ## Nightmare Navigator - Building a Horror Movie Telegram Bot - Angela Scherer
 A short walkthrough of building a Telegram bot in Go that delivers curated horror movie recommendations. The talk covers library choices and trade-offs, shows how the bot parses flexible user queries, and explains how scheduled jobs keep recommendations up to date.
 
-Links: [Slides](TODO) | [Code](TODO)  
-Speaker: [GitHub](TODO) | [LinkedIn](TODO)
+Links: [Slides](https://github.com/angelaschereraiza/go_meetup_talk/blob/main/output/slides.pdf) | [Code](https://github.com/angelaschereraiza/nightmare_navigator)  
+Speaker: [GitHub](https://github.com/angelaschereraiza) | [LinkedIn](https://www.linkedin.com/in/angela-scherer-2a2979136/)
 
 ## One Collector to rule them all - Florian Lehner
 Traces, Metrics, and Profiles with the OTel Collector - Most people know the OpenTelemetry Collector for traces and metrics, but did you know it can handle profiling data too? This talk is a hands-on introduction to the OTel Collector, explaining what it is, why you'd want it, and how to configure it to receive profiling signals alongside your existing telemetry.
