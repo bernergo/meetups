@@ -19,5 +19,5 @@ Speaker: [GitHub](https://github.com/florianl/) | [LinkedIn](https://www.linkedi
 ## oopsie: improving startup time and binary size with git bisect and go size analyzer - Tom Payne
 In this quick talk, we'll do a bit of performance debugging. We'll use git, Go, and go-size-analyzer to identify exactly what's causing slow startup and binary bloat in a popular open source project.
 
-Links: [Project](https://www.chezmoi.io) | [Slides](TODO)
+Links: [Project](https://www.chezmoi.io) | [Slides](./2026-05-28-twpayne-oopsie.html)  
 Speaker: [Github](https://github.com/twpayne)
