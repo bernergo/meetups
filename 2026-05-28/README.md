@@ -13,7 +13,7 @@ Speaker: [GitHub](https://github.com/angelaschereraiza) | [LinkedIn](https://www
 ## One Collector to rule them all - Florian Lehner
 Traces, Metrics, and Profiles with the OTel Collector - Most people know the OpenTelemetry Collector for traces and metrics, but did you know it can handle profiling data too? This talk is a hands-on introduction to the OTel Collector, explaining what it is, why you'd want it, and how to configure it to receive profiling signals alongside your existing telemetry.
 
-Links: [Project](https://opentelemetry.io/blog/2026/profiles-alpha/) | [Slides](TODO)  
+Links: [Project](https://opentelemetry.io/blog/2026/profiles-alpha/) | [Slides](./2026-05-28-florianl-meetup.pdf)  
 Speaker: [GitHub](https://github.com/florianl/) | [LinkedIn](https://www.linkedin.com/in/florian-lehner/)
 
 ## oopsie: improving startup time and binary size with git bisect and go size analyzer - Tom Payne
