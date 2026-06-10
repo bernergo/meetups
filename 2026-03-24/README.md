@@ -7,8 +7,7 @@
 A tailscale service allows us to decouple services from actual hosts on our tailnet. The docs outline how to setup a
 new service via the admin console, but can I use terraform instead?
 
-Links: [Slides](TODO) | [Code](TODO)
-Speaker: [GitHub](TODO) | [LinkedIn](https://www.linkedin.com/in/noe-thalheim/)
+Speaker: [LinkedIn](https://www.linkedin.com/in/noe-thalheim/)
 
 ## Datapages - web dev in Go; batteries included - Roman Sharkov
 
