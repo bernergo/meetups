@@ -14,8 +14,8 @@ Speaker: [GitHub](https://github.com/rotscher) | [LinkedIn](https://www.linkedin
 ## Jujutsu (the VCS) for Gophers
 Philip Metzger will give us an introduction to the Jujutsu VCS for Git users and Newcomers.
 
-Links: [Project](https://github.com/jj-vcs/jj) | [Slides](TODO)  
-Speaker: [GitHub](TODO) | [LinkedIn](https://www.linkedin.com/in/philip-metzger-52693420b/)
+Links: [Project](https://github.com/jj-vcs/jj) | [Slides](Jujutsu-for-Gophers.pdf)  
+Speaker: [GitHub](https://github.com/PhilipMetzger) | [LinkedIn](https://www.linkedin.com/in/philip-metzger-52693420b/)
 
 ## 28M Tokens per Minute: Is Go the Right Tool?
 We built a cloud-native AI Gateway in Go. It handles many concurrent requests and
