@@ -2,7 +2,7 @@
 
 [meetup.com](https://www.meetup.com/berner-go-meetup/events/316607124)
 
-Meetup hosted by [PostFinance AG ](@postfinance)
+Meetup hosted by [PostFinance AG](https://github.com/postfinance)
 
 ## Migrating a Legacy Java Application to Go: Lessons from a Go Newbie
 Roger Brechbühl from PostFinance will share lessons learnt from migrating a legacy Java application to Go as a newbie
@@ -23,5 +23,5 @@ currently can process 28 million tokens per minute per instance. Lena talks abou
 the issues we had, the problems we solved, the frustrations we encountered, and
 how Go helped us with all of them.
 
-Links: [Project](https://github.com/bespinian/keera-gateway) | [Slides](TODO)  
+Links: [Project](https://github.com/bespinian/keera-gateway) | [Slides](Keera-Why-Go-keeps-it-fast.pdf)  
 Speaker: [Github](https://github.com/cloudlena) | [LinkedIn](https://www.linkedin.com/in/lena-fuhrimann/)
